@@ -127,6 +127,12 @@ export class Systems {
 				value: "radiation"
 			}
 		},
+		"fantastic-depths": {
+			hp: {
+				value: "hp.value",
+				max: "hp.max"
+			}
+		},
 		dragonbane: {
 			hp: {
 				value: "hitPoints.value",
