@@ -1,4 +1,11 @@
- # Damage Log
+# Damage Log
+
+## DAMAGE LOG HAS MOVED TO [CODEBERG](https://codeberg.org/cs96and/FoundryVTT-damage-log)
+Please report any future issues there.  Foundry should prompt you to use the new location when you update your modules.
+
+This repo will be archived and eventually deleted.
+
+---
 
 ![GitHub Latest Release](https://img.shields.io/github/release/cs96and/FoundryVTT-damage-log?style=for-the-badge)
 ![Foundry Version](https://img.shields.io/badge/dynamic/json?label=Foundry%20Version&prefix=v&query=%24.compatibility.verified&url=https%3A%2F%2Fraw.githubusercontent.com%2Fcs96and%2FFoundryVTT-damage-log%2Fmaster%2Fmodule.json&style=for-the-badge)
@@ -29,6 +36,7 @@ Damage Log is currently compatible with the following systems.
 * Dungeons & Dragons v3.5 (`D35E`)
 * Dungeons & Dragons 5th Edition (`dnd5e`)
 * Fallout: The Rollplaying Game (`fallout`)
+* Fantastic Depths (`fantastic-depths`)
 * GURPS 4th Edition Game Aid (Unofficial) (`gurps`)
 * Level Up: Advanced 5th Edition (`a5e`)
 * Mothership (`mosh`)
